@@ -2,7 +2,7 @@
 
 - Play with computer
 
-<img src="https://github.com/emantggw/pong_js/raw/main/assets/screenshots/screenshot.gif" />
+<img src="https://github.com/emantggw/pong_game_js/raw/main/assets/screenshots/screenshot.gif" />
 
 ### Project created at:
 
